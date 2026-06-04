@@ -21,7 +21,7 @@ async function getData() {
             //     </div>
             // `;
                         container.innerHTML += `
-                        <div class="card  col-sm-6 col-md-4 col-lg-2 py-2 mb-4 mx-2 " style="width: 18rem;">
+                        <div class="card  col-sm-6 col-md-4 col-lg-2 py-2 mb-4 mx-auto " style="width: 18rem;">
                             <img src="${product.thumbnail}" class="card-img-top" alt="...">
                             <div class="card-body">
                             <h4 class="card-title">${product.title}</h4>
