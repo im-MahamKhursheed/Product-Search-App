@@ -2,6 +2,16 @@ body{
     background-color: #0b012e; 
     color: white;
 }
+.btn-outline-primary {
+    color: #0b012e;
+    border-color: #0b012e;
+    background-color: transparent; /* Ya body color #07001e */
+}
+
+.btn-outline-primary:hover {
+    background-color:#0b012e; /* Hover par blue ho jayega */
+    color: white;
+}
 @media (max-width: 576px) {
     .card img {
         height: 150px;
