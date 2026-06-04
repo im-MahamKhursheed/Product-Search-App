@@ -5,11 +5,11 @@ body{
 .btn-outline-primary {
     color: #0b012e;
     border-color: #0b012e;
-    background-color: transparent; /* Ya body color #07001e */
+    background-color: transparent; 
 }
 
 .btn-outline-primary:hover {
-    background-color:#0b012e; /* Hover par blue ho jayega */
+    background-color:#0b012e;
     color: white;
 }
 @media (max-width: 576px) {

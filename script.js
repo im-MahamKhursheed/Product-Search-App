@@ -30,7 +30,7 @@ async function getData() {
                                 <li class="list-group-item">Category: ${product.category}</li>
                                 <li class="list-group-item">Price: $${product.price}</li>
                             </ul>
-                            <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                            <p class="card-text"><small class="text-body-secondary">Last updated 1 min ago</small></p>
               </div>
                         </div>`
 //             container.innerHTML += `
